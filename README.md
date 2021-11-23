@@ -5,7 +5,7 @@ This project will test the following hypothesis:
 1. Dip search problem
 2. Longest Balanced Span problem
 3. Telegraph style string problem
-4. 
+
 ## Project 2: Polynomial versus Exponential Time
 
 This project will test the following hypotheses:
