@@ -1,5 +1,11 @@
 # Algorithm_project
-
+## Project 1: Empirical Analysis
+This project will test the following hypothesis:
+ For large values of n, the mathematically-derived efficiency class of an algorithm accurately predicts the observed running time of an implementation of that algorithm.
+1. Dip search problem
+2. Longest Balanced Span problem
+3. Telegraph style string problem
+4. 
 ## Project 2: Polynomial versus Exponential Time
 
 This project will test the following hypotheses:
